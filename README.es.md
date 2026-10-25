@@ -135,4 +135,4 @@ Se aceptan issues y pull requests. Ejecuta `swift run SelfCheck` antes de enviar
 Mantén el código de tiempo real (`Processor`, `FilterBank`, `PluginChain`, `Render`) sin reservas de memoria ni bloqueos.
 
 ## Licencia
-[MIT](LICENSE)
+[GPL-3.0](LICENSE)

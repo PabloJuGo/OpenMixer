@@ -10,7 +10,7 @@
 <p align="center">
   <img alt="macOS 14.2+" src="https://img.shields.io/badge/macOS-14.2%2B-blue">
   <img alt="Swift 5.9+" src="https://img.shields.io/badge/Swift-5.9%2B-orange">
-  <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-green">
+  <img alt="License: GPL-3.0" src="https://img.shields.io/badge/license-GPL--3.0-green">
 </p>
 
 <p align="center"><a href="README.es.md">Leer en español</a></p>
@@ -143,4 +143,4 @@ Issues and pull requests are welcome. Please run `swift run SelfCheck` before se
 Keep the real-time code (`Processor`, `FilterBank`, `PluginChain`, `Render`) free of allocation, locks and Swift runtime calls that can block.
 
 ## License
-[MIT](LICENSE)
+[GPL-3.0](LICENSE)
